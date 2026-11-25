@@ -1,4 +1,4 @@
-# Day 3 – LangChain, Automated Testing & AI Agents 🌸
+# Day 3 – LangChain, Automated Testing & AI Agents 
 
 ## 📌 Task Overview
 
